@@ -586,11 +586,11 @@ section {
   color: #82909c;
 }
 
-/* .about .image {
-  background: url("../img/me.jfif") center center no-repeat;
+.about .image {
+  background: url("../img/code.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
-} */
+}
 
 .about .skills-content {
   margin-top: 30px;
